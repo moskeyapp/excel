@@ -1,3 +1,5 @@
+## ⚠️ This an unmaintained fork of the 2.1.30 version of the [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) package. Please refrain from using this fork.
+
 ## Laravel Excel v2.1.* for Laravel 5
 
 Looking for Laravel Excel for Laravel 4? Visit the [`1.3` branch](https://github.com/Maatwebsite/Laravel-Excel/tree/1.3)
